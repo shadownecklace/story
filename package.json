@@ -21,6 +21,6 @@
     "hexo-renderer-marked": "^3.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
-    "shadownecklace/hexo-theme-landscape": "latest"
+    "hexo-theme-landscape": "shadownecklace/hexo-theme-landscape#master"
   }
 }
