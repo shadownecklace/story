@@ -104,3 +104,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- recent_posts
