@@ -10,8 +10,8 @@ fancybox: true
 recent_posts_limits: 5
 # Footer
 copyright: |-
-  All content on this site excluding the banner image is Copyright Will Shadow 2020. 
-  <br>No parts of the stories listed here may be reproduced without express permission, which can be obtained at <a href="mailto:will@theshadow.xyz">this email</a>
+  No parts of the stories listed here may be reproduced without express permission, which can be obtained at <a href="mailto:will@theshadow.xyz">this email</a>
+  <br> All content on this site except <a href="/css/images/book.webp">the banner image</a> are
 
 # Sidebar
 sidebar: right
